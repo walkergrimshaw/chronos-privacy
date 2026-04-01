@@ -43,5 +43,4 @@ Read the full [Privacy Policy](/chronos-site/privacy).
 
 Have a question or found a bug?
 
-- **Email:** nick@walkergrimshaw.com
 - **Support form:** [Submit a request](https://docs.google.com/forms/d/e/1FAIpQLSfyxP4Vt2ONcz75dmuFynEHW1IGrHL6KZXlCvWj-bXdGN9DZg/viewform)
